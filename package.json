@@ -2,7 +2,7 @@
   "name": "nr",
   "version": "1.0.0",
   "description": "this is my react project",
-  "main": "app.js",
+  
   "scripts": {
     "test": "jest",
     "start": "parcel index.html",
